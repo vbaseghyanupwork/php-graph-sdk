@@ -1,5 +1,6 @@
 {
     "name": "vbaseghyanupwork/php-graph-sdk",
+    "version": "0.1",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
